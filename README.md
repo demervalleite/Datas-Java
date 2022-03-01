@@ -7,5 +7,5 @@ Usando o objeto calendar para calcular dia mes e ano
 
 Usando o after e o before para comparar datas maiores e menores
 
-Nova API APARTIR DO JAVA 8 "LocalDate"
+Nova API Apartir do Java 8 "LocalDate"
 

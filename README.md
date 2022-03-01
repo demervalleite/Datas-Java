@@ -1,11 +1,14 @@
 # Datas-Java
 Manipulando datas com Java
+<ul>
 
-Formatando datas O SimpleDateFormat
+<li>Formatando datas O SimpleDateFormat </li>
 
-Usando o objeto calendar para calcular dia mes e ano
+<li> Usando o objeto calendar para calcular dia mes e ano</li>
 
-Usando o after e o before para comparar datas maiores e menores
+<li> Usando o after e o before para comparar datas maiores e menores</li>
 
-Nova API Apartir do Java 8 "LocalDate"
+<li> Nova API Apartir do Java 8 "LocalDate"</li>
+  
+<ul/>
 
